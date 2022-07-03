@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="연습들\**" />
+    <EmbeddedResource Remove="연습들\**" />
+    <None Remove="연습들\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="10-2.cs" />
+    <Compile Remove="10-4.cs" />
+    <Compile Remove="210915 속이 빈 다이아 별 찍기 for문 1개.cs" />
+    <Compile Remove="210915 속이 찬 다이아 별 찍기 for문 1개.cs" />
+    <Compile Remove="7-5.cs" />
+    <Compile Remove="7-7.cs" />
+    <Compile Remove="AbstractClass.cs" />
+    <Compile Remove="CopyingArray.cs" />
+    <Compile Remove="DefaultImplementation.cs" />
+    <Compile Remove="DerivedInterface.cs" />
+    <Compile Remove="Enumerable.cs" />
+    <Compile Remove="Ex6_1.cs" />
+    <Compile Remove="Ex6_3.cs" />
+    <Compile Remove="Ex9_1.cs" />
+    <Compile Remove="Ex9_2.cs" />
+    <Compile Remove="Generic.cs" />
+    <Compile Remove="Indexer.cs" />
+    <Compile Remove="MainApp.cs" />
+    <Compile Remove="MoreOnArray.cs" />
+    <Compile Remove="MultiInterfaceInHeritance.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="Property.cs" />
+    <Compile Remove="Slice.cs" />
+    <Compile Remove="Yeild.cs" />
+    <Compile Remove="_2DArray.cs" />
+    <Compile Remove="메소드 오버로딩 vs 선택적 매개변수.cs" />
+    <Compile Remove="연습 문제 5-1.cs" />
+  </ItemGroup>
+
+</Project>
