@@ -1,0 +1,7 @@
+C:\Users\JeongDH\Desktop\대학교\C#\7.3 얕은복사 깊은복사\7.3 얕은복사 깊은복사\bin\Debug\7.3 얕은복사 깊은복사.exe.config
+C:\Users\JeongDH\Desktop\대학교\C#\7.3 얕은복사 깊은복사\7.3 얕은복사 깊은복사\bin\Debug\7.3 얕은복사 깊은복사.exe
+C:\Users\JeongDH\Desktop\대학교\C#\7.3 얕은복사 깊은복사\7.3 얕은복사 깊은복사\bin\Debug\7.3 얕은복사 깊은복사.pdb
+C:\Users\JeongDH\Desktop\대학교\C#\7.3 얕은복사 깊은복사\7.3 얕은복사 깊은복사\obj\Debug\7.3 얕은복사 깊은복사.csproj.AssemblyReference.cache
+C:\Users\JeongDH\Desktop\대학교\C#\7.3 얕은복사 깊은복사\7.3 얕은복사 깊은복사\obj\Debug\7.3 얕은복사 깊은복사.csproj.CoreCompileInputs.cache
+C:\Users\JeongDH\Desktop\대학교\C#\7.3 얕은복사 깊은복사\7.3 얕은복사 깊은복사\obj\Debug\7.3 얕은복사 깊은복사.exe
+C:\Users\JeongDH\Desktop\대학교\C#\7.3 얕은복사 깊은복사\7.3 얕은복사 깊은복사\obj\Debug\7.3 얕은복사 깊은복사.pdb

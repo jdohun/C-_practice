@@ -1,0 +1,7 @@
+C:\Users\JeongDH\Desktop\대학교\C#\7.6 this\7.6 this\bin\Debug\7.6 this.exe.config
+C:\Users\JeongDH\Desktop\대학교\C#\7.6 this\7.6 this\bin\Debug\7.6 this.exe
+C:\Users\JeongDH\Desktop\대학교\C#\7.6 this\7.6 this\bin\Debug\7.6 this.pdb
+C:\Users\JeongDH\Desktop\대학교\C#\7.6 this\7.6 this\obj\Debug\7.6 this.csproj.AssemblyReference.cache
+C:\Users\JeongDH\Desktop\대학교\C#\7.6 this\7.6 this\obj\Debug\7.6 this.csproj.CoreCompileInputs.cache
+C:\Users\JeongDH\Desktop\대학교\C#\7.6 this\7.6 this\obj\Debug\7.6 this.exe
+C:\Users\JeongDH\Desktop\대학교\C#\7.6 this\7.6 this\obj\Debug\7.6 this.pdb

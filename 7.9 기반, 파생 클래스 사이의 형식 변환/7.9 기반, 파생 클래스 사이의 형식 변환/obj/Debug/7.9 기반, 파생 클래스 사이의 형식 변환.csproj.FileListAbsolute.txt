@@ -1,0 +1,7 @@
+C:\Users\JeongDH\Desktop\대학교\C#\7.9 기반, 파생 클래스 사이의 형식 변환\7.9 기반, 파생 클래스 사이의 형식 변환\bin\Debug\7.9 기반, 파생 클래스 사이의 형식 변환.exe.config
+C:\Users\JeongDH\Desktop\대학교\C#\7.9 기반, 파생 클래스 사이의 형식 변환\7.9 기반, 파생 클래스 사이의 형식 변환\bin\Debug\7.9 기반, 파생 클래스 사이의 형식 변환.exe
+C:\Users\JeongDH\Desktop\대학교\C#\7.9 기반, 파생 클래스 사이의 형식 변환\7.9 기반, 파생 클래스 사이의 형식 변환\bin\Debug\7.9 기반, 파생 클래스 사이의 형식 변환.pdb
+C:\Users\JeongDH\Desktop\대학교\C#\7.9 기반, 파생 클래스 사이의 형식 변환\7.9 기반, 파생 클래스 사이의 형식 변환\obj\Debug\7.9 기반, 파생 클래스 사이의 형식 변환.csproj.AssemblyReference.cache
+C:\Users\JeongDH\Desktop\대학교\C#\7.9 기반, 파생 클래스 사이의 형식 변환\7.9 기반, 파생 클래스 사이의 형식 변환\obj\Debug\7.9 기반, 파생 클래스 사이의 형식 변환.csproj.CoreCompileInputs.cache
+C:\Users\JeongDH\Desktop\대학교\C#\7.9 기반, 파생 클래스 사이의 형식 변환\7.9 기반, 파생 클래스 사이의 형식 변환\obj\Debug\7.9 기반, 파생 클래스 사이의 형식 변환.exe
+C:\Users\JeongDH\Desktop\대학교\C#\7.9 기반, 파생 클래스 사이의 형식 변환\7.9 기반, 파생 클래스 사이의 형식 변환\obj\Debug\7.9 기반, 파생 클래스 사이의 형식 변환.pdb
